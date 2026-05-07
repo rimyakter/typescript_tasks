@@ -136,6 +136,6 @@ Through these problems and blogs, the following concepts were practiced:
 
 ---
 
-# Author
+# Author: Asa Akter Rimy
 
 Developed as part of TypeScript practice and conceptual learning.
